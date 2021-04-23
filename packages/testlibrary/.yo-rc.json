@@ -1,0 +1,15 @@
+{
+  "generator-ui5-library": {
+    "libraryname": "testlibrary",
+    "namespace": "demo",
+    "framework": "SAPUI5",
+    "frameworkVersion": "1.86.3",
+    "author": "Mio Yasutake",
+    "namespaceURI": "demo",
+    "librarynamespace": "demo.testlibrary",
+    "librarynamespaceURI": "demo/testlibrary",
+    "librarybasepath": "../../",
+    "frameworklowercase": "sapui5",
+    "setupCompleted": true
+  }
+}

@@ -1,0 +1,15 @@
+ <mvc:View controllerName="demo.testapp.controller.App"
+  displayBlock="true"
+  xmlns="sap.m"
+  xmlns:mvc="sap.ui.core.mvc"
+  xmlns:demo="demo.testlibrary">
+  <App id="idAppControl" >
+    <pages>
+      <Page title="{i18n>title}">
+        <content>
+          <demo:Example text="Sample" color="Default"></demo:Example>
+        </content>
+      </Page>
+    </pages>
+  </App>
+</mvc:View>
